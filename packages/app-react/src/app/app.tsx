@@ -1,7 +1,7 @@
 import NxWelcome from './nx-welcome';
 
 import { Route, Routes, Link } from 'react-router-dom';
-import { Button } from 'packages/ui-component';
+import { Button } from 'ui-components';
 
 export function App() {
   return (
