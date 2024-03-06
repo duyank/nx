@@ -1,0 +1,8 @@
+{
+  "name": "app-nextjs",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/app-nextjs",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
